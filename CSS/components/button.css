@@ -8,3 +8,8 @@
 
 
 }
+
+.btn-blue:hover {
+	color: black;
+	background-color: whitesmoke;
+}
